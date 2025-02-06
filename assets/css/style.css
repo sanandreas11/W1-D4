@@ -128,7 +128,24 @@ button {
     cursor: pointer;
 }
 /* ELEMENTI NELL' ASIDE */
-
+.date {
+ text-align: right;
+}
+#box1 {
+    background-color: #f2f2f2;
+    padding: 1em;
+    margin: 1em 0;
+}
+#box2 {
+    background-color: #f2f2f2;
+    padding: 1em;
+    margin: 1em 0;
+}
+#box3 {
+    background-color: #f2f2f2;
+    padding: 1em;
+    margin: 1em 0;
+}
 /* FOOTER */
 footer {
     border: 0px solid black;
